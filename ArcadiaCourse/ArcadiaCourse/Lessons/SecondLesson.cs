@@ -4,7 +4,7 @@ namespace ArcadiaCourse.Lessons
 {
     public class SecondLesson
     {
-        private static void Main()
+        private static void OldMain()
         {
             Dictionary<string, string> Languages = new Dictionary<string, string>();
             Languages.Add("Russian", "Этот текст на русском языке");
