@@ -1,0 +1,6 @@
+﻿//namespace Language
+//{
+//    class LocalizedText
+//    {
+//    }
+//}
